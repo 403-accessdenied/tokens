@@ -1,12 +1,5 @@
-<p align="center">
-
-  <a target="_blank">
-    <img alt="phishgg-logo" height="70" alt="Phish.gg Logo" src="https://cdn.phish.gg/logo.png"/>
-  </a>
-</p>
-
 <h1 align="center">
-  <strong>Token Revoking</strong>
+  <strong>Token Revoking | FAQ</strong>
 </h1>
 
 <p align="center">
